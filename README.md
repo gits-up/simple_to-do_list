@@ -1,1 +1,2 @@
-# simple_to-do_list
+# To-Do-List
+Create To Do List In JavaScript
