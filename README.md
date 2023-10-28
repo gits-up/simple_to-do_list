@@ -1,2 +1,2 @@
 # To-Do-List
-Create To Do List In JavaScript
+To Do List In JavaScript
